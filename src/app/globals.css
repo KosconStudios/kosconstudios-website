@@ -1,9 +1,0 @@
-html, body {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  height: 100%;
-  background: black url('/KosconStudios_logo_1920x1080.png') no-repeat center center;
-  background-size: contain;
-  overflow: hidden;
-}
